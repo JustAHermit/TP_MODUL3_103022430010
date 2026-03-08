@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\TP_MODUL3_103022430010\\TP_MODUL3_103022430010\\Form1.cs",
-              "RelativeDocumentMoniker": "TP_MODUL3_103022430010\\Form1.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\TP_MODUL3_103022430010\\TP_MODUL3_103022430010\\Form1.cs",
-              "RelativeToolTip": "TP_MODUL3_103022430010\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T20:24:16.814Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,6 +31,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T20:08:30.869Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\TP_MODUL3_103022430010\\TP_MODUL3_103022430010\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_MODUL3_103022430010\\Form1.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\TP_MODUL3_103022430010\\TP_MODUL3_103022430010\\Form1.cs",
+              "RelativeToolTip": "TP_MODUL3_103022430010\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T20:24:16.814Z",
+              "EditorCaption": ""
             }
           ]
         }

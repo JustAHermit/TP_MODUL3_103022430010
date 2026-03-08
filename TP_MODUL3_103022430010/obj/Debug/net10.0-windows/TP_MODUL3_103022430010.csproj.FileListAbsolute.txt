@@ -1,0 +1,7 @@
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MODUL3_103022430010\TP_MODUL3_103022430010\obj\Debug\net10.0-windows\TP_MODUL3_103022430010.Form1.resources
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MODUL3_103022430010\TP_MODUL3_103022430010\obj\Debug\net10.0-windows\TP_MODUL3_103022430010.csproj.GenerateResource.cache
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MODUL3_103022430010\TP_MODUL3_103022430010\obj\Debug\net10.0-windows\TP_MODUL3_103022430010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MODUL3_103022430010\TP_MODUL3_103022430010\obj\Debug\net10.0-windows\TP_MODUL3_103022430010.AssemblyInfoInputs.cache
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MODUL3_103022430010\TP_MODUL3_103022430010\obj\Debug\net10.0-windows\TP_MODUL3_103022430010.AssemblyInfo.cs
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MODUL3_103022430010\TP_MODUL3_103022430010\obj\Debug\net10.0-windows\TP_MODUL3_103022430010.csproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MODUL3_103022430010\TP_MODUL3_103022430010\obj\Debug\net10.0-windows\TP_MODUL3_103022430010.sourcelink.json

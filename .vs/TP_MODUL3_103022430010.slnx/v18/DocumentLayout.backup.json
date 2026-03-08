@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\TP_MODUL3_103022430010\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6983C799-9AB4-4629-B47C-8B64C1B8FE32}|TP_MODUL3_103022430010\\TP_MODUL3_103022430010.csproj|c:\\users\\mybook hype amd\\documents\\college material\\vsc stuff\\tp_modul3_103022430010\\tp_modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6983C799-9AB4-4629-B47C-8B64C1B8FE32}|TP_MODUL3_103022430010\\TP_MODUL3_103022430010.csproj|solutionrelative:tp_modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CB69BFF5-7500-36DF-1369-E62EFFD0916C}|TP_MODUL3_103022430010\\TP_MODUL3_103022430010.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\TP_MODUL3_103022430010\\tp_modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB69BFF5-7500-36DF-1369-E62EFFD0916C}|TP_MODUL3_103022430010\\TP_MODUL3_103022430010.csproj|solutionrelative:tp_modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BFF5-7500-36DF-1369-E62EFFD0916C}|TP_MODUL3_103022430010\\TP_MODUL3_103022430010.csproj|c:\\users\\mybook hype amd\\documents\\college material\\vsc stuff\\tp_modul3_103022430010\\tp_modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB69BFF5-7500-36DF-1369-E62EFFD0916C}|TP_MODUL3_103022430010\\TP_MODUL3_103022430010.csproj|solutionrelative:tp_modul3_103022430010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T20:08:30.869Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\TP_MODUL3_103022430010\\TP_MODUL3_103022430010\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_MODUL3_103022430010\\Form1.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Documents\\College Material\\VSC stuff\\TP_MODUL3_103022430010\\TP_MODUL3_103022430010\\Form1.cs",
+              "RelativeToolTip": "TP_MODUL3_103022430010\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T20:24:16.814Z",
+              "EditorCaption": ""
             }
           ]
         }
